@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6o0133/T/v1
+canonical_location: https://kanripo.org/bkk/KR6o0133/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛三身讚
+  identifiers:
+    krp: KR6o0133
+    cbeta: T32n1678
+    cbeta_old_id: T32n1678
+    authorityid: CA0001076
+    json_key: T1678
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1678.xml
+    old_id: T32n1678
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0133_000-T.yaml, hash: 'sha256:31e7178f3909a5ed6bf36fb840f373676ab7bf426a413a142a9a76864f3e6817'}
+  - {seq: 1, filename: KR6o0133_001-T.yaml, hash: 'sha256:d551e859cfbf11bee8151cb0c4e2e7107cdab01769288f520a30b1c81fddb764'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0133_000-T.markers.yaml, hash: 'sha256:8017f93d9759af1e04e49ffb698dfc5774ce124fdadf12bf7764832571423bc9'}
+  - {seq: 1, role: markers, filename: assets/KR6o0133_001-T.markers.yaml, hash: 'sha256:d83068bcdd3a1a511689e395f94ad5a4b2d23be14c8dfa44c6908bb8767359a2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0133_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 256
+  label: 佛三身讚西土賢聖撰
+  type: juan
+  level: 1
+hash: sha256:34b949bf6f6881ea795f70a45f69577e482921aa40d9792829fc323121c958eb

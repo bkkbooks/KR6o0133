@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6o0133/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 西天譯經三藏朝散大夫試光祿卿明教大師臣法賢奉詔譯法身我今稽首法身佛無喻難思普遍智充滿法界無罣礙湛然寂靜無等等非有非無性真實亦非多少離數量平等無相若虛空福利自他亦如是報身我今稽首報身佛湛然安住大牟尼哀愍化度菩薩衆處會如日而普照三祇積集諸功德始能圓滿寂靜道以大音聲談妙法普令獲得平等果化身我今稽首化身佛菩提樹下成正覺或起變現或寂靜或復往化於十方或轉法輪於鹿苑或現大光如火聚三塗苦報悉能除三界無比大牟尼回向如是佛身無漏智我常信解淨三業以無量慧大福行一心垂愍諸群生以今頌讚三身佛所獲無漏功德種願我速證佛菩提盡引衆生歸正道
+  hash: sha256:544c5c9574ffba98213407e5bdb6c6e113fda5a81816fcfc897fd4733792d906
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 佛三身讚西土賢聖撰, id: KR6o0133_T_001-juan-start, juan_n: '001', jhead: 佛三身讚西土賢聖撰}
+  - {type: 'cbeta:juan-end', offset: 256, content: 佛三身讚, id: KR6o0133_T_001-juan-end, juan_n: '001', jhead: 佛三身讚}
+metadata:
+  title: 佛三身讚
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1678.xml
+    old_id: T32n1678
+hash: sha256:0e074d111077fe29ae3ccaa3485fe241907e123e385f48718c4eaf08fd52c4c2
