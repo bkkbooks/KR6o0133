@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0133_000.yaml, hash: 'sha256:31e7178f3909a5ed6bf36fb840f373676ab7bf426a413a142a9a76864f3e6817'}
-  - {seq: 1, filename: KR6o0133_001.yaml, hash: 'sha256:0e074d111077fe29ae3ccaa3485fe241907e123e385f48718c4eaf08fd52c4c2'}
+  - {seq: 1, filename: KR6o0133_001.yaml, hash: 'sha256:d551e859cfbf11bee8151cb0c4e2e7107cdab01769288f520a30b1c81fddb764'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6o0133_001.markers.yaml, hash: 'sha256:7bf256091e14d8c3ff550f7b3fff22cfb0f072a7ac490aa58ffadc602f18398b'}
+  - {seq: 0, role: markers, filename: assets/KR6o0133_000.markers.yaml, hash: 'sha256:5716468675291a7baae3214c81dfb7a58a0e55dcc2ea0b27c7864c45c3777977'}
+  - {seq: 1, role: markers, filename: assets/KR6o0133_001.markers.yaml, hash: 'sha256:e661dc5327b95500f2707645ccd528b3208408f3955e69e85af96f6f058a47ae'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛三身讚西土賢聖撰
   type: juan
   level: 1
-hash: sha256:895f66b492dcc18cd127ef33a2e464c42d4425cd22f857cd4f3cfd54fbf9b347
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:cec08aa195885333c5a197389868d395029ad808986b14190596bd7181b3d43b
