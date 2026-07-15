@@ -43,6 +43,7 @@ markers:
   - {type: punctuation, offset: 91, content: 。, id: KR6o0133_T_001-bkkpn14}
   - {type: punctuation, offset: 98, content: ，, id: KR6o0133_T_001-bkkpn15}
   - {type: line-break, offset: 98, content: '', id: KR6o0133_T_001-0757b26, ed: T, 'n': 0757b26}
+  - {type: substitution, offset: 104, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 105, content: ，, id: KR6o0133_T_001-bkkpn16}
   - {type: punctuation, offset: 105, content: 。, id: KR6o0133_T_001-bkkpn17}
   - {type: punctuation, offset: 112, content: ，, id: KR6o0133_T_001-bkkpn18}
@@ -79,6 +80,7 @@ markers:
   - {type: xml-element, offset: 198, content: '', id: lgT32p0757c0101_end, name: lg, role: close, attrs: {type: regular, 'xml:id': lgT32p0757c0101}}
   - {type: line-break, offset: 198, content: '', id: KR6o0133_T_001-0757c05, ed: T, 'n': 0757c05}
   - {type: xml-element, offset: 198, content: '', id: pT32p0757c0501, name: p, role: open, attrs: {'xml:id': pT32p0757c0501}}
+  - {type: substitution, offset: 198, original: 迴, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20169}}
   - {type: xml-element, offset: 200, content: '', id: pT32p0757c0501_end, name: p, role: close, attrs: {'xml:id': pT32p0757c0501}}
   - {type: line-break, offset: 200, content: '', id: KR6o0133_T_001-0757c06, ed: T, 'n': 0757c06}
   - {type: xml-element, offset: 200, content: '', id: lgT32p0757c0601, name: lg, role: open, attrs: {type: regular, 'xml:id': lgT32p0757c0601}}
@@ -96,8 +98,9 @@ markers:
   - {type: line-break, offset: 242, content: '', id: KR6o0133_T_001-0757c09, ed: T, 'n': 0757c09}
   - {type: punctuation, offset: 249, content: ，, id: KR6o0133_T_001-bkkpn46}
   - {type: punctuation, offset: 249, content: 。, id: KR6o0133_T_001-bkkpn47}
+  - {type: substitution, offset: 251, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 256, content: 。, id: KR6o0133_T_001-bkkpn48}
   - {type: xml-element, offset: 256, content: '', id: lgT32p0757c0601_end, name: lg, role: close, attrs: {type: regular, 'xml:id': lgT32p0757c0601}}
   - {type: line-break, offset: 256, content: '', id: KR6o0133_T_001-0757c10, ed: T, 'n': 0757c10}
   back: []
-hash: sha256:e661dc5327b95500f2707645ccd528b3208408f3955e69e85af96f6f058a47ae
+hash: sha256:b4ed83d36f2294d41651a7bad4f2aeb7324614899e9cc74f145fa72399157609

@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6o0133/v1
 canonical_location: https://kanripo.org/bkk/KR6o0133/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛三身讚
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0133_000.yaml, hash: 'sha256:31e7178f3909a5ed6bf36fb840f373676ab7bf426a413a142a9a76864f3e6817'}
-  - {seq: 1, filename: KR6o0133_001.yaml, hash: 'sha256:d551e859cfbf11bee8151cb0c4e2e7107cdab01769288f520a30b1c81fddb764'}
+  - {seq: 1, filename: KR6o0133_001.yaml, hash: 'sha256:0e074d111077fe29ae3ccaa3485fe241907e123e385f48718c4eaf08fd52c4c2'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6o0133_000.markers.yaml, hash: 'sha256:5716468675291a7baae3214c81dfb7a58a0e55dcc2ea0b27c7864c45c3777977'}
-  - {seq: 1, role: markers, filename: assets/KR6o0133_001.markers.yaml, hash: 'sha256:e661dc5327b95500f2707645ccd528b3208408f3955e69e85af96f6f058a47ae'}
+  - {seq: 1, role: markers, filename: assets/KR6o0133_001.markers.yaml, hash: 'sha256:b4ed83d36f2294d41651a7bad4f2aeb7324614899e9cc74f145fa72399157609'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛三身讚西土賢聖撰
   type: juan
   level: 1
-hash: sha256:cec08aa195885333c5a197389868d395029ad808986b14190596bd7181b3d43b
+hash: sha256:bee5d2d946fb163b6a9e9a590bb8e47307aca48f080f29a5a8c161bcc650f41c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
